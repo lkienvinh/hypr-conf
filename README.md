@@ -5,7 +5,7 @@ git clone https://github.com/lkienvinh/hypr-conf.git
 
 Install required packages:
 
-sudo pacman -S cava fastfetch kitty pavucontrol rofi hyprlock hypridle nautilus swaync waybar hyprland ttf-jetbrains-mono-nerd noto-fonts-cjk flatpak awww hyprshot pulseaudio pipewire wireplumber pipewire-pulse pipewire-alsa pipewire-jack wireless_tools
+sudo pacman -S cava fastfetch kitty pavucontrol rofi hyprlock hypridle nautilus swaync waybar hyprland ttf-jetbrains-mono-nerd noto-fonts-cjk flatpak awww hyprshot pipewire wireplumber pipewire-pulse pipewire-alsa pipewire-jack wireless_tools pamixer
 
 
 Install wlogout:
