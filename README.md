@@ -28,3 +28,17 @@ mkdir ~/.config
 cd hypr-conf
 
 mv cava fastfetch hypr kitty swaync waybar rofi wlogout ~/.config
+
+
+
+
+
+
+
+
+
+
+##EVEN FASTER##
+run: sudo chmod +x install.sh
+sudo ./install.sh
+(THE INSTALL.SH IS ALSO IN THE REPO, RUN IT TO INSTALL FASTER **IT MAY OVERRIDE YOUR CONFIG FILES**
